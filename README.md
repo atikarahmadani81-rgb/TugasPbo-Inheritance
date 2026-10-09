@@ -19,4 +19,4 @@ Repositori ini berisi penyelesaian tugas Pemrograman Berbasis Objek (PBO) mengen
 ---
 
 ## 💻 Hasil Eksekusi Program (Running Output)
-<img width="1307" height="912" alt="Screenshot 2026-09-28 062612" src="https://github.com/user-attachments/assets/ca0b0c5e-8eae-49fa-86d8-dc9b7c0798cb" />
+<img width="1919" height="1063" alt="Screenshot 2026-10-09 225851" src="https://github.com/user-attachments/assets/5fd73a0f-86e5-4091-85e5-ff9b45995529" />
